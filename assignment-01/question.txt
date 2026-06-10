@@ -1,0 +1,1 @@
+accept a character from the user and find out whether the accepted character is an alphabet or a digit or a special symbol.
