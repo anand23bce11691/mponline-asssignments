@@ -1,0 +1,3 @@
+create a drone system with a behaviour of take off movement and land. where you'll be having battery life the direction and check whether the drone is flying or not whether it will land or move.
+write a program for drone system where every drone is eligible to make a move or land . at the time of movement check whether the drone  is flying or not 
+the n u need to set the battery life and altitude which cannot be directly accessed  
