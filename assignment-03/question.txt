@@ -1,0 +1,6 @@
+create a shopping cart for multiple products where each product has :
+id
+name 
+price
+quantity 
+and display the cart with multiple products and show the total cost of shopping cart 
