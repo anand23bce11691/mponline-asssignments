@@ -1,0 +1,1 @@
+Create an application for cab booking where user enters the pickup location but the GPS service fails or entered is invalid handle it through exception.
