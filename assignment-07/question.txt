@@ -1,0 +1,1 @@
+Create an application for a manager for three types of employees working under him and all are capable of generating reports like a developer regarding the project progression or tester regarding the perks in project and manager regarding both of them.
